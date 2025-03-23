@@ -11,8 +11,7 @@ This project is a **Spring Boot** application that acts as a **RabbitMQ producer
 - [Configuration](#configuration)
 - [Endpoints](#endpoints)
 - [Technologies Used](#technologies-used)
-- [License](#license)
-
+  
 ---
 
 ## 🐇 Introduction to RabbitMQ
@@ -127,11 +126,5 @@ spring.rabbitmq.template.routing-key=my-routing-key
 - **RabbitMQ**
 - **Maven**
 - **Docker (Optional for running RabbitMQ)**
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
